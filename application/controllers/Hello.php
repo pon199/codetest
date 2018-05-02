@@ -20,6 +20,6 @@ class Hello extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('hello_message !!!');
+		$this->load->view('hello_message');
 	}
 }
